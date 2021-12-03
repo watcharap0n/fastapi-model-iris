@@ -1,0 +1,10 @@
+app/data.json
+app/testing.ipynb
+app/csvjson.json
+app/data_customer.json
+app/dataset_covid.csv
+app/marketing_campaign.csv
+data_customers.json
+.DS_Store
+.idea
+Pipfile.lock
