@@ -7,4 +7,6 @@ app/marketing_campaign.csv
 data_customers.json
 .DS_Store
 .idea
+app/__pycache__
+app/routers/__pycache__
 Pipfile.lock

@@ -12,6 +12,8 @@ pandas = "*"
 requests = "*"
 jupyter = "*"
 numpy = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
