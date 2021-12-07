@@ -128,15 +128,15 @@ async def prediction(payload: Iris, model: Optional[str] = None, all: Optional[b
 
 **Preview APIs Model Iris**
 
-![Alt text](https://github.com/watcharap0n/fastapi-model-iris/blob/main/app/static/github/img1.png?raw=true "Title")
+![Alt text](https://github.com/watcharap0n/fastapi-model-iris/blob/master/app/static/github/img1.png?raw=true "Title")
 
 **Preview API Prediction Iris**
 
-![Alt text](https://github.com/watcharap0n/fastapi-model-iris/blob/main/app/static/github/img2.png?raw=true "Title")
+![Alt text](https://github.com/watcharap0n/fastapi-model-iris/blob/master/app/static/github/img2.png?raw=true "Title")
 
 **Preview API Predict detail**
 
-![Alt text](https://github.com/watcharap0n/fastapi-model-iris/blob/main/app/static/github/img3.png?raw=true "Title")
+![Alt text](https://github.com/watcharap0n/fastapi-model-iris/blob/master/app/static/github/img3.png?raw=true "Title")
 
 
 **Build && Setup Python**
