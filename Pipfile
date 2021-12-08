@@ -15,6 +15,10 @@ numpy = "*"
 scikit-learn = "*"
 matplotlib = "*"
 pylint = "*"
+<<<<<<< HEAD
+=======
+gunicorn = "*"
+>>>>>>> master
 
 [dev-packages]
 
