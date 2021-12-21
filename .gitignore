@@ -11,3 +11,5 @@ app/__pycache__
 app/routers/__pycache__
 Pipfile.lock
 app/__pycache__/main.cpython-39.pyc
+app/model/__pycache__
+__pycache__/
